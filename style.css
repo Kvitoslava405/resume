@@ -1,5 +1,5 @@
 :root{
-	--bgcolor:#0000004f;
+	--bgcolor:#000000;
 	--blue:linear-gradient(10deg, rgb(47, 185, 245),rgba(193, 63, 171, 0.827));
 	--black:linear-gradient(135deg, rgb(1, 179, 255),rgba(193, 63, 171, 0.827));
 	--white:linear-gradient(135deg, rgb(169, 229, 255),rgba(193, 63, 171, 0.827));
@@ -23,7 +23,7 @@ body{
 	height: 1000px;
 	margin: 100px auto;
 	background: var(--white);
-	box-shadow: 5px 21px 25px 25px #07c7dc;
+	box-shadow: 5px 21px 21px 21px #07c7dc;
 }
 .left-section{
 	background-image: url(https://media.giphy.com/media/3o7aCVMlBlPonCOG7S/giphy.gif);
