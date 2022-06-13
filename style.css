@@ -182,7 +182,7 @@ body{
     content: '';
     display: block;
     background: var(--blue);
-    width: 50%;
+    width: 80%;
     height: 100%;
     border-radius: 9px;
 }
@@ -197,7 +197,7 @@ body{
     content: '';
     display: block;
     background: var(--blue);
-    width: 40%;
+    width: 60%;
     height: 100%;
     border-radius: 9px;
 }
